@@ -39,6 +39,16 @@ llm-rag-react-openai-huggingface/
 
 ---
 
+## 🛠️ Build and Run
+
+### 1. Clone the repo
+
+```bash
+git https://github.com/mukeshpatil1-coder/llm-rag-react-openai-huggingface.git
+```
+
+---
+
 ## 🧠 Step 1: SAP Data Embedding (RAG)
 
 Run the embedding pipeline to index SAP metadata into FAISS:

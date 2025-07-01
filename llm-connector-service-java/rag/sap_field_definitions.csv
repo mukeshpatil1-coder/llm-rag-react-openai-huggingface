@@ -1,0 +1,5 @@
+field,description,data_type,length
+MARA-MATNR,Material Number,CHAR,18
+MAKT-MAKTX,Material Description,CHAR,40
+EKKO-EBELN,Purchasing Document Number,CHAR,10
+EKPO-MATNR,Material Number in Item,CHAR,18

@@ -1,0 +1,26 @@
+[
+  {
+    "field": "MARA-MATNR",
+    "description": "Material Number",
+    "data_type": "CHAR",
+    "length": 18
+  },
+  {
+    "field": "MAKT-MAKTX",
+    "description": "Material Description",
+    "data_type": "CHAR",
+    "length": 40
+  },
+  {
+    "field": "EKKO-EBELN",
+    "description": "Purchasing Document Number",
+    "data_type": "CHAR",
+    "length": 10
+  },
+  {
+    "field": "EKPO-MATNR",
+    "description": "Material Number in Item",
+    "data_type": "CHAR",
+    "length": 18
+  }
+]

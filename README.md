@@ -7,7 +7,7 @@ This project includes a full-stack Retrieval-Augmented Generation (RAG) pipeline
 
 - ✅ Java Spring Boot backend (`llm-connector-service-java`)
 - ✅ FAISS vector-based retrieval using SAP field definitions (`rag/`)
-- ✅ React Chatbot UI (`chatbot-react-ui`)
+- ✅ React Chatbot UI (`chatbot-react-ui-client`)
 
 ---
 
@@ -19,7 +19,7 @@ llm-rag-react-openai-huggingface/
 │   ├── rag/                       # SAP RAG pipeline (FAISS)
 │   ├── src/                       # Controller, Service, Config
 │   └── pom.xml
-├── chatbot-react-ui/             # React frontend
+├── chatbot-react-ui-client/             # React frontend
 │   └── src/
 └── sap_field_definitions.csv     # SAP metadata (for RAG)
 ```
@@ -78,7 +78,7 @@ mvn spring-boot:run
 ## 💬 Step 3: Launch React Chatbot UI
 
 ```bash
-cd chatbot-react-ui
+cd chatbot-react-ui-client
 npm install
 npm start
 ```

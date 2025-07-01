@@ -48,7 +48,7 @@ cd llm-rag-react-openai-huggingface
 
 ---
 
-### 2. Configure your API keys
+### Configure your API keys
 
 Edit the `src/main/resources/application.properties` file:
 

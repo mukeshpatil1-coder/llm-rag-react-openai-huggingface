@@ -12,7 +12,7 @@ This project includes a full-stack Retrieval-Augmented Generation (RAG) pipeline
 ---
 
 ## 📘 Working UI
-![Uploading Screenshot 2025-07-02 at 12.01.34 AM.png…]()
+<img width="1439" alt="Screenshot 2025-07-02 at 12 01 34 AM" src="https://github.com/user-attachments/assets/02ec3883-bc62-4eb1-9403-49ccd601f8fd" />
 
 ---
 

@@ -54,6 +54,8 @@ cd llm-rag-react-openai-huggingface
 
 Run the embedding pipeline to index SAP metadata into FAISS:
 
+From root:
+
 ```bash
 cd llm-connector-service-java/rag
 python3 embed_sap_fields.py
@@ -77,6 +79,8 @@ mvn spring-boot:run
 ---
 
 ## 💬 Step 3: Launch React Chatbot UI
+
+From root:
 
 ```bash
 cd chatbot-react-ui-client

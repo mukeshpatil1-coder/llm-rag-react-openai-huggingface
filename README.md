@@ -44,7 +44,8 @@ llm-rag-react-openai-huggingface/
 ### Clone the repo
 
 ```bash
-git https://github.com/mukeshpatil1-coder/llm-rag-react-openai-huggingface.git
+git clone https://github.com/mukeshpatil1-coder/llm-rag-react-openai-huggingface.git
+cd llm-rag-react-openai-huggingface
 ```
 
 ---

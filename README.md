@@ -11,6 +11,11 @@ This project includes a full-stack Retrieval-Augmented Generation (RAG) pipeline
 
 ---
 
+## 📘 Working UI
+![Uploading Screenshot 2025-07-02 at 12.01.34 AM.png…]()
+
+---
+
 ## 📁 Project Structure
 
 ```

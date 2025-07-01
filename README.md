@@ -39,8 +39,6 @@ llm-rag-react-openai-huggingface/
 
 ---
 
-## 🛠️ Build and Run
-
 ### Clone the repo
 
 ```bash
@@ -48,6 +46,21 @@ git clone https://github.com/mukeshpatil1-coder/llm-rag-react-openai-huggingface
 cd llm-rag-react-openai-huggingface
 ```
 
+---
+
+### 2. Configure your API keys
+
+Edit the `src/main/resources/application.properties` file:
+
+```properties
+# === OpenAI ===
+openai.api.key=sk-<your-openai-api-key>
+openai.model=gpt-3.5-turbo
+
+# === Hugging Face ===
+huggingface.api.key=hf_<your-hf-token>
+huggingface.model.url=https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium
+```
 ---
 
 ## 🧠 Step 1: SAP Data Embedding (RAG)

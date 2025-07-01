@@ -41,7 +41,7 @@ llm-rag-react-openai-huggingface/
 
 ## 🛠️ Build and Run
 
-### 1. Clone the repo
+### Clone the repo
 
 ```bash
 git https://github.com/mukeshpatil1-coder/llm-rag-react-openai-huggingface.git

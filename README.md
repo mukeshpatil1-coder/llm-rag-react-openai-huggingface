@@ -12,7 +12,7 @@ This project includes a full-stack Retrieval-Augmented Generation (RAG) pipeline
 ---
 
 ## 📘 Working UI
-<img width="1439" alt="Screenshot 2025-07-02 at 12 01 34 AM" src="https://github.com/user-attachments/assets/02ec3883-bc62-4eb1-9403-49ccd601f8fd" />
+<img width="1435" alt="Screenshot 2025-07-02 at 12 24 58 AM" src="https://github.com/user-attachments/assets/3f393222-f9dd-43af-8518-17be6bd49726" />
 
 ---
 
